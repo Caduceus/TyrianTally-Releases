@@ -1,11 +1,11 @@
 {
   "module": "Tyrian Tally",
   "namespace": "bh.peeringinward.TyrianTally",
-  "currentVersion": "0.1.10",
-  "minimumSupportedVersion": "0.1.10",
-  "priority": "required",
-  "required": true,
-  "blocksUse": true,
-  "message": "Required update test.",
+  "currentVersion": "0.1.9",
+  "minimumSupportedVersion": "0.1.9",
+  "priority": "none",
+  "required": false,
+  "blocksUse": false,
+  "message": "Tyrian Tally is up to date.",
   "publishedUtc": "2026-07-08T00:00:00Z"
 }
