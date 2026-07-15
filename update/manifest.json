@@ -1,13 +1,7 @@
 {
-    "module":  "Tyrian Tally",
-    "namespace":  "bh.peeringinward.TyrianTally",
-    "currentVersion":  "0.1.10",
-    "minimumSupportedVersion":  "",
-    "priority":  "standard",
-    "required":  false,
-    "blocksUse":  false,
-    "downloadUrl":  "https://github.com/Peering-Inward/TyrianTally/raw/refs/heads/main/0.1.10/TyrianTally.bhm",
-    "sha256":  "e73042db2120c1a1b90afe1c22e8d06b34b79f092757978dfc1a82fc744b92c1",
-    "message":  "A newer version of Tyrian Tally is ready.",
-    "publishedUtc":  "2026-07-14T16:12:51Z"
+    "schemaVersion":  1,
+    "keyId":  "tyrian-tally-release-1",
+    "algorithm":  "RSA-SHA256",
+    "payload":  "ew0KICAgICJzY2hlbWFWZXJzaW9uIjogIDEsDQogICAgIm1vZHVsZSI6ICAiVHlyaWFuIFRhbGx5IiwNCiAgICAibmFtZXNwYWNlIjogICJiaC5wZWVyaW5naW53YXJkLlR5cmlhblRhbGx5IiwNCiAgICAiY3VycmVudFZlcnNpb24iOiAgIjAuMS4xMSIsDQogICAgImxhdGVzdFZlcnNpb24iOiAgIjAuMS4xMSIsDQogICAgIm1pbmltdW1TdXBwb3J0ZWRWZXJzaW9uIjogICIiLA0KICAgICJwcmlvcml0eSI6ICAic3RhbmRhcmQiLA0KICAgICJyZXF1aXJlZCI6ICBmYWxzZSwNCiAgICAiYmxvY2tzVXNlIjogIGZhbHNlLA0KICAgICJkb3dubG9hZFVybCI6ICAiaHR0cHM6Ly9naXRodWIuY29tL1BlZXJpbmctSW53YXJkL1R5cmlhblRhbGx5L3Jhdy9yZWZzL2hlYWRzL21haW4vMC4xLjExL1R5cmlhblRhbGx5LmJobSIsDQogICAgInNoYTI1NiI6ICAiYWJiOTEzZDMwOWVlZTUzMzNlNzI5NTZlN2NlOTk4ODQ3NTEzNzMyMTNkNmQxN2ZkNWYzNDkyMDVkYTBmN2QzNyIsDQogICAgIm1lc3NhZ2UiOiAgIkEgbmV3ZXIgdmVyc2lvbiBvZiBUeXJpYW4gVGFsbHkgaXMgcmVhZHkuIiwNCiAgICAicHVibGlzaGVkVXRjIjogICIyMDI2LTA3LTE1VDA2OjE1OjQyWiINCn0=",
+    "signature":  "ZqaIoPDBS3wWneVnfLyoWH/bNgFdVCZFMYfOHahm9GHFSPW9v/IGHzCXx1mai5tzR7djrWJAscFCASZHARKr2Ua1a6mJ5VuNG2QsHJ8MYr2AKmjUGziSYA5s1bmKIaGqE6Ixz19eQO1pzKg6fe1P+LZMS3ejGMMarb/qZWWt4o9yY0EcGkR1z8o2CdTZZ7S/kdqyV3l1gn/ZN8AmOYa2GiO2Yq+gcRmI8rsSP5N8loPqiqMLKadJUV59hVmQ2IC1F4KZ8EVdYYvsSl/XDIN5p2eeg+yOcXS4qBPQ4Qknn7mMwKuM12VBBOEEwJV84LNop3QkfRZBudDhLGCEmVkQEbXkThBZZ6ggS/SnrHHpSzULg1B24gFe4vTDuSBXnxIq7yy3Z2AIUujdw7s/DuYAF7QWXi0cMXHR7tqOB6ADQOgLbE1NdLTiA5nzpbmdBcOfxoB+tvYFjdTY62DmA566HxXedv88PkM5pO79QcIsG56t7IpDnciVl0nB4DXJI45A"
 }
